@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mahdi-Mohammad2008
+- 👋 Hi, I’m Mahdi Mohammad
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
